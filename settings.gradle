@@ -1,0 +1,4 @@
+include ':rx-battery'
+include ':rx-battery-kotlin'
+include ':rx2-battery'
+include ':rx2-battery-kotlin'
