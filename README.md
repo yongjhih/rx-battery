@@ -6,6 +6,7 @@
 ## Usage
 
 ```java
+RxBattery.changes().subscribe();
 ```
 
 ## Installation
