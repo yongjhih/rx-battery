@@ -6,7 +6,11 @@
 ## Usage
 
 ```java
-RxBattery.changes().subscribe();
+RxBattery.changes(context).subscribe();
+```
+
+```kt
+context.batteryChanges().subscribe();
 ```
 
 ## Installation
